@@ -8,8 +8,8 @@ public class ejercicio03 {
     String nombre = scanner.nextLine();
     System.out.println("Ingrese su edad");
     String edad = scanner.nextLine();
-    System.out.println("Su nombre es "+ nombre);
-    System.out.println("Tu edad es "+ edad);
+    System.out.println("Hola "+ nombre);
+    System.out.println("Tienes "+ edad+ "años");
     }
     
 }
